@@ -14,7 +14,7 @@ poll the queues for what the Bridgemates produce. Pick your language:
 | Language | Repository | Package |
 | --- | --- | --- |
 | C# / .NET (reference) | [Bridgemate-Data-Connector-Scoring-Program-Client](https://github.com/BridgeSystems/Bridgemate-Data-Connector-Scoring-Program-Client) | NuGet [`BridgeSystems.Bridgemate.DataConnector.ScoringProgramClient`](https://www.nuget.org/packages/BridgeSystems.Bridgemate.DataConnector.ScoringProgramClient) |
-| PHP | [Bridgemate-Data-Connector-Scoring-Program-Client-PHP](https://github.com/BridgeSystems/Bridgemate-Data-Connector-Scoring-Program-Client-PHP) | Composer `bridgemate/dataconnector-client` |
+| PHP | [Bridgemate-Data-Connector-Scoring-Program-Client-PHP](https://github.com/BridgeSystems/Bridgemate-Data-Connector-Scoring-Program-Client-PHP) | Composer [`bridgemate/dataconnector-client`](https://packagist.org/packages/bridgemate/dataconnector-client) |
 | Java | [Bridgemate-Data-Connector-Scoring-Program-Client-Java](https://github.com/BridgeSystems/Bridgemate-Data-Connector-Scoring-Program-Client-Java) | Maven `nl.bridgemate:bridgemate-dataconnector-client` |
 
 All three clients speak an identical wire format: the PHP and Java layers are generated from the
