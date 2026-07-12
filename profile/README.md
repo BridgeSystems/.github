@@ -29,4 +29,4 @@ prints each request and response — the fastest way to learn the protocol.
 - 📚 [API reference](https://bridgesystems.github.io/Bridgemate-Data-Connector-Scoring-Program-Client/html/b11ca58b-c149-48f8-af9a-cf6a2c7bfe53.htm) — context-sensitive help for the .NET client
 - 🖥️ [Scoring Program Emulator](https://github.com/BridgeSystems/Bridgemate-Data-Connector-Scoring-Program-Client/releases) — ready-to-run WPF app to exercise the Data Connector (attached to every release)
 - 💬 [Questions & answers](https://github.com/BridgeSystems/Bridgemate-Data-Connector-Scoring-Program-Client/discussions) — one Discussions board for all languages
-- 🌐 [bridgemate.com](https://www.bridgemate.com) — the products themselves
+- 🌐 [bridgemate.com](https://www.bridgemate.com) — the homepage for everything Bridgemate
